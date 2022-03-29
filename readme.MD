@@ -1,4 +1,4 @@
-#### Lab 4. Introduction to Classes and Objects.
+#### Lab 5. Introduction to Classes and Objects.
 
 #### Due Tuesday, April 6, start of class.
 
