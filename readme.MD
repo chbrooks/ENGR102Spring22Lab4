@@ -1,6 +1,6 @@
 #### Lab 5. Introduction to Classes and Objects.
 
-#### Due Tuesday, April 6, start of class.
+#### Due Tuesday, April 5, start of class.
 
 As usual, this lab will be graded according to specifications grading. To get full credit, 
 push your version of the lab to your GitHub repo before the deadline.
